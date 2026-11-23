@@ -1,7 +1,9 @@
 
 pipeline {
     agent any
-
+    triggers {
+    cron('TZ=Asia/Kolkata\n0 9 * * *')
+    }
     environment {
         BASE_URL = 'https://opensource-demo.orangehrmlive.com/'
         CI = 'true'
