@@ -1,0 +1,16 @@
+{
+    "newEmployee": {
+        "firstName": "John",
+        "middleName": "David",
+        "lastName": "Smith"
+    },
+    "updatedEmployee": {
+        "firstName": "Robert",
+        "middleName": "James",
+        "lastName": "Williams"
+    },
+    "searchEmployee": {
+        "firstName": "John",
+        "lastName": "Smith"
+    }
+}

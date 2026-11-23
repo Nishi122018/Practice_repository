@@ -1,0 +1,16 @@
+{
+    "LoginPage":{
+        "lusername":"input[name='username']",
+         "lpassword":"input[name='password']",
+         "llogin"   :"button[type='submit']"
+
+    },
+    "HomePage":{
+        "optionAdmin":"//span[text()='Admin']",
+        "optionPim":"//span[text()='PIM']",
+        "optionrecruitment" : "//span[text()='Recruitment']"
+    },
+    "PIMPage":{
+
+    }
+}
