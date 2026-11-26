@@ -11,6 +11,14 @@
         "optionrecruitment" : "//span[text()='Recruitment']"
     },
     "PIMPage":{
+        "Pim_menulink" : "//span[text()='PIM']",
+        "Add_Employee" : "//button[@class='oxd-button oxd-button--medium oxd-button--secondary']",
+        "Add_Employee_Firstname":"First Name",
+        "Add_Employee_Middlename":"Middle Name",
+        "Add_Employee_Lastname":"Last Name",
+        "Add_Employee_save_button":"//button[text()=' Save ']",
+        "Add_Employee_cancel_button":"//button[text()=' Cancel ']"
 
+        
     }
 }

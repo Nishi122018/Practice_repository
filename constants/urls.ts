@@ -3,5 +3,6 @@ export const URLS = {
     LOGIN_PAGE: '/',
     DASHBOARD: '/web/index.php/dashboard/index',
     PIM: '/web/index.php/pim/viewEmployeeList',
-    ADMIN: '/web/index.php/admin/viewSystemUsers'
+    ADMIN: '/web/index.php/admin/viewSystemUsers',
+    PIM_addemployee: 'web/index.php/pim/viewEmployeeList'
 };
